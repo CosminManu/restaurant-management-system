@@ -46,4 +46,4 @@ To do:
 - Feature to be added 2
 
 ## Contact
-Created by me [@CosminManul](https://www.linkedin.com/in/cosminmanu/) - feel free to contact me!
+Created by me [@CosminManu](https://www.linkedin.com/in/cosminmanu/) - feel free to contact me!
