@@ -5,7 +5,8 @@
 ## Table of contents
 * [General Info](#general-information)
 * [Tech Stack](#tech-stack)
-* [Features](#features)
+* [Features for Client](#features-for-client)
+* [Features for Administrator](#features-for-admin)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
@@ -13,12 +14,21 @@
 * [Contact](#contact)
 
 ## General Information
-
+- Order management system is a console application written in Java Standard Edition 17, a Long Term Support version of the language. 
+- Application consists of 2 profiles: client and administrator. All customers of the restaurant can place an order using the 'client' application interface. Also an admin of the restaurant can view reports about what orders have been made through the day, what ingredients are needed for a product, how to add a product in the menu and so on.
+- Source code of the application is on another private repo.
 
 ## Tech Stack
+- Java SE 17
 
+## Features for Client
+- Choose one/more menu/s
+- Make an order (or multiple orders for same client*)
+- Receive a form of receipt
 
-## Features
+*final payment will be for all the orders
+
+## Features for Admin
 - Feature 1
 - Feature 2
 - Feature 3
