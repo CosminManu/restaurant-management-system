@@ -9,14 +9,16 @@
 * [Features for Administrator](#features-for-admin)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [How to run it](#run-app)
 * [Project Status](#project-status)
 * [Further Improvements](#further-improvements)
 * [Contact](#contact)
 
 ## General Information
-- Order management system is a console application written in Java Standard Edition 17, a Long Term Support version of the language. 
-- Application consists of 2 profiles: client and administrator. All customers of the restaurant can place an order using the 'client' application interface. Also an admin of the restaurant can view reports about what orders have been made through the day, what ingredients are needed for a product, how to add a product in the menu and so on.
-- Source code of the application is on another private repo.
+- "Order management system" is a console application written in Java Standard Edition 17, a Long Term Support version of the language offered by _Oracle_. 
+- Application consists of **2 profiles**: **client** and **administrator**.
+ All customers of the restaurant can place an order using the 'client' application interface. Also an admin of the restaurant can view reports about what orders have been made through the day, what ingredients are needed for a product, how to add a product in the menu and so on.
+- **_Important:_ Source code of the application is _on another private repo_.**
 
 ## Tech Stack
 - Java SE 17
@@ -26,7 +28,7 @@
 - Make an order (or multiple orders for same client*)
 - Receive a form of receipt
 
-*final payment will be for all the orders
+*_final payment will be for all the orders_
 
 ## Features for Admin
 - Feature 1
@@ -38,8 +40,13 @@
 Folder with img/
 
 ## Setup
-Proj requirements/dependencies?
-how to install/setup on local machine/get started with application?
+There are no extra dependecies or external libraries that need to be installed apart from the JDK JJava Development Kit that contains the virtual machine to run the application.
+For the setup of the app user has first to:
+- **Ensure he/she has the file _menu.txt_ set accordingly to the specifications.**
+- Ensure the absolute paths for order.txt are set by the support team.
+
+## Run app
+User can run the system from command line.
 
 ## Project Status
  _in progress_ / _complete_ / _no longer being worked on_
