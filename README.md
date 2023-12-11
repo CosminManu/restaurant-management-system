@@ -43,13 +43,14 @@ All customers of the restaurant can place an order using the 'client' applicatio
 Folder with img/
 
 ## Setup
-There are no extra dependecies or external libraries that need to be installed apart from the JDK JJava Development Kit that contains the virtual machine to run the application.
+There are no extra dependencies or external libraries that need to be installed apart from the JDK JJava Development Kit that contains the virtual machine to run the application.
 For the setup of the app user has first to:
 - Ensure he/she has the file **_menu.txt_** set accordingly to the specifications.
 - Ensure the absolute paths for order.txt are set by the support team.
 
 ## Run app
 User can run the system from command line, navigating to _out/production/restaurant-ppoo_, using followinf command
+
 `java ro.ase.ebusiness.Main`
 
 ## Project Status
