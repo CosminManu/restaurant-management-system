@@ -49,7 +49,7 @@ For the setup of the app user has first to:
 - Ensure the absolute paths for order.txt are set by the support team.
 
 ## Run app
-User can run the system from command line, navigating to _out/production/restaurant-ppoo_, using followinf command
+User can run the system from command line, navigating to _out/production/restaurant-ppoo_, using following command
 
 `java ro.ase.ebusiness.Main`
 
